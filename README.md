@@ -5,3 +5,5 @@ Here's what you accomplished in this tutorial:
 - Started and managed a new branch
 - Changed a file and committed those changes to GitHub
 - Opened and merged a pull request
+
+GitHub flow to collaborate on projects.
